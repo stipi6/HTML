@@ -1,0 +1,8 @@
+.book-container {
+  width: 500px;
+  height: 900px;
+  text-align: center;
+}
+.book-title {
+  margin-bottom: 100px;
+}
