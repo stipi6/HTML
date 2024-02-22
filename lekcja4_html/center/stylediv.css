@@ -1,5 +1,11 @@
 .container {
-background-color: blue;
-width: 94%;
-margin: 0 auto;
+  background-color: blue;
+  width: 94%;
+  margin: 0 auto;
+}
+
+@media (min-width: 769px) {
+  .container {
+    width: 640px;
+  }
 }
